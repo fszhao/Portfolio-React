@@ -1,0 +1,62 @@
+.solid-button-container {
+  display: flex;
+  position: relative;
+}
+.solid-button-button {
+  color: var(--dl-color-gray-white);
+  width: 110%;
+  height: 110%;
+  display: flex;
+  transition: 0.3s;
+  border-width: 0px;
+  border-radius: 50px;
+  background-color: var(--dl-color-primary-blue);
+}
+
+.solid-button-root-class-name {
+  margin-bottom: var(--dl-space-space-unit);
+}
+
+
+.solid-button-root-class-name3 {
+  margin-bottom: var(--dl-space-space-unit);
+}
+.solid-button-root-class-name4 {
+  margin-bottom: var(--dl-space-space-unit);
+}
+.solid-button-root-class-name5 {
+  margin-bottom: var(--dl-space-space-unit);
+}
+.solid-button-root-class-name6 {
+  margin-bottom: var(--dl-space-space-unit);
+}
+.solid-button-root-class-name7 {
+  margin-bottom: var(--dl-space-space-unit);
+}
+.solid-button-root-class-name8 {
+  margin-bottom: var(--dl-space-space-unit);
+}
+.solid-button-root-class-name9 {
+  margin-bottom: var(--dl-space-space-unit);
+}
+
+
+.solid-button-root-class-name12 {
+  margin-bottom: var(--dl-space-space-unit);
+}
+.solid-button-root-class-name13 {
+  margin-bottom: var(--dl-space-space-unit);
+}
+.solid-button-root-class-name14 {
+  margin-bottom: var(--dl-space-space-unit);
+}
+
+.solid-button-root-class-name16 {
+  margin-bottom: var(--dl-space-space-unit);
+}
+.solid-button-root-class-name17 {
+  margin-bottom: var(--dl-space-space-unit);
+}
+.solid-button-root-class-name18 {
+  margin-bottom: var(--dl-space-space-unit);
+}
